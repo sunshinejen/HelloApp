@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">HelloApp</string>
-    <string name="hello_ad_340">Hello AD 340! Jennifer Villacis!</string>
+    <string name="app_name">AD340 Weather</string>
+    <string name="zipcode_entry_error">Please enter valid zipcode!</string>
+    <string name="forecast_clicked_format">Forecast: %1$.2f %2$s </string>
+    <string name="enter_your_zipcode_TextView_title_">Enter your zipcode</string>
+    <string name="enter_zipcode_hint">Enter zipcode</string>
+    <string name="submit_zipcode_button_text">Submit zipcode</string>
 </resources>
+
